@@ -1,0 +1,6 @@
+cl/duoc/jv0101/caso01/empresas/controller/EmpresaController.class
+cl/duoc/jv0101/caso01/empresas/repository/EmpresaRepository.class
+cl/duoc/jv0101/caso01/empresas/config/OpenApiConfig.class
+cl/duoc/jv0101/caso01/empresas/service/EmpresaService.class
+cl/duoc/jv0101/caso01/empresas/EmpresaApplication.class
+cl/duoc/jv0101/caso01/empresas/model/Empresa.class
